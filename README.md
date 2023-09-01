@@ -1,6 +1,4 @@
-# CHAT REAL TIME COM NODE E SOCKET.IO
 
-> Projeto ensinado pelo Diego da Rocketseat
 > Chat em realtime usando Node + Socket.Io
 
 ## Instalação e utilização
